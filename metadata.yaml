@@ -1,0 +1,30 @@
+_repo: Saragossa-A-Story-of-Spanish-Valor_47769
+contributor:
+  translator:
+    agent_name: Smith, Minna Caroline
+    birthdate: 1860
+    deathdate: 1929
+    gutenberg_agent_id: '39377'
+    url: http://www.gutenberg.org/2009/agents/39377
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2014-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Saragossa: A Story of Spanish Valor'
+url: http://www.gutenberg.org/ebooks/47769
