@@ -1,4 +1,5 @@
 _repo: Saragossa-A-Story-of-Spanish-Valor_47769
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Smith, Minna Caroline
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1929
     gutenberg_agent_id: '39377'
     url: http://www.gutenberg.org/2009/agents/39377
+covers:
+- cover_type: archival
+  image_path: 47769-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez Galdós, Benito
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3821
     wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47769#Saragossa-A-Story-of-Spanish-Valor
 gutenberg_issued: '2014-12-24'
 gutenberg_type: Text
 identifiers:
